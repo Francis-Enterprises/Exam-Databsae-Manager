@@ -7,5 +7,4 @@ This is a serverside program with the purpose of recording examination data, and
 
 ## Operation
 
-See [manual](https://github.com/Francis-Enterprises/Exam-Databsae-Manager/blob/main/README.md/)
-
+See [manual](https://github.com/Francis-Enterprises/Exam-Databsae-Manager/blob/main/Electrical%20Exam%20Database%20Software%20Manual.pdf)
